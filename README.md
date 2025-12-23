@@ -11,10 +11,10 @@ My 100 Days Java + DSA challenge journey — daily learning, practice, and growt
 ## 📊 Progress Tracker
 
 | Day | Date | Topic | Folder | Status |
-|----|------|--------|--------|
-| Day 01 |22-12-25 | Pattern Programs | `Day-01/Patterns` | ✅ Completed |
-| Day 02 |23-12-25 | Functions Basics | `Day-02/FUNCTIONS` | ✅ Completed |
-| Day 03 | - | - | - |    |
-| Day 04 | — | — | ⏳ |
+- |----|------|--------|--------|
+- | Day 01 |22-12-25 | Pattern Programs | `Day-01/Patterns` | ✅ Completed |
+-| Day 02 |23-12-25 | Functions Basics | `Day-02/FUNCTIONS` | ✅ Completed |
+-| Day 03 | - | - | - |    |
+- | Day 04 | — | — | ⏳ |
 
 ---
